@@ -6,4 +6,4 @@ Dataset summary and cleaning
 Distribution and correlation visualizations
 Grouped analysis by demographic and phone usage purpose
 Key findings: (Add a sentence, e.g. "High addiction correlated with lower sleep and academic performance")
-See EDA_TeenPhoneAddiction.ipynb for full notebook and plots!
+See Addiction-survey.ipynb for full notebook and plots!
